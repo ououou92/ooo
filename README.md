@@ -14,6 +14,6 @@
 - [EX02-02](https://colab.research.google.com/drive/1UmD8AkSeOqXq7F14JzuSuV8mxrlOQj8Q)
 - [EX02-03](https://colab.research.google.com/drive/1ut6kiX3zBY47-Woy_DICbSpLE5oDqbq-)
 - [EX02-04](https://colab.research.google.com/drive/1Q6cffTXfkhsF6xEniIPRpCoBdo8R2og2)
-- [EX02-05]
-- [EX02-06]
+- [EX02-05](https://colab.research.google.com/drive/1EUWs6WVO-xQhvXwGVw-TYK5uleeaEs_-)
+- [EX02-06](https://colab.research.google.com/drive/1vNwY5W-6BaKrdTFbNoWJSJHa7zU83a7F)
 - [EX02-07]
