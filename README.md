@@ -20,3 +20,4 @@
 
 ## Data Analysis
 - [EX03-01](https://github.com/ououou92/ooo/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
+- [HW03 Data Analysis](HW1.ipynb)
