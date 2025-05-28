@@ -1,27 +1,30 @@
 # 應用程式課程
 
 ## 01 Python Overview
-- [EX01-01](https://colab.research.google.com/drive/1knzO8vqC7cAEkaJB6j3qcgDVgbUZvqaL)
-- [EX01-22](https://colab.research.google.com/drive/19zCEXxEstMwFNFc8HfoM_rT8KOrGMO1K)
-- [EX01-03](https://colab.research.google.com/drive/1bnrhWpAgV6752z3FjzNJRUQzCqO049xr)
-- [EX01-04](https://colab.research.google.com/drive/1S878O7uqh2aGIdhqEXHKJIML2O9jMkKN)
-- [EX01-05](https://colab.research.google.com/drive/1rlexwdAUgiWd9_BzmOOw6BUhhF1UmFXq)
-- [EX01-06](https://colab.research.google.com/drive/1TdYpIZ7Zm4wiM0YmNR9lXgx6W5KpTTTU)
-- [EX01-07](https://colab.research.google.com/drive/1dwkZSBR3opyph0jaXppUIFMj20jXWA3c)
-
+- [EX01-01](EX01_01_加法器.ipynb)
+- [EX01-22](EX01_02_BMI_計算.ipynb)
+- [EX01-03](EX01_03_Rock_Paper_Scissors.ipynb)
+- [EX01-04](EX01_04_終極密碼.ipynb)
+- [EX01-05](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
+- [EX01-06](EX01_06_簡易購物車.ipynb)
+- [EX01-07](EX01_07_美食資訊查詢.ipynb)
 ## 02 Web Crawler
-- [EX02-01](https://colab.research.google.com/drive/1j2Fa_dOcQ3dtbMhvfeGIN959hccq9zrD)
-- [EX02-02](https://colab.research.google.com/drive/1UmD8AkSeOqXq7F14JzuSuV8mxrlOQj8Q)
-- [EX02-03](https://colab.research.google.com/drive/1ut6kiX3zBY47-Woy_DICbSpLE5oDqbq-)
-- [EX02-04](https://colab.research.google.com/drive/1Q6cffTXfkhsF6xEniIPRpCoBdo8R2og2)
-- [EX02-05](https://colab.research.google.com/drive/1EUWs6WVO-xQhvXwGVw-TYK5uleeaEs_-)
-- [EX02-06](https://colab.research.google.com/drive/1vNwY5W-6BaKrdTFbNoWJSJHa7zU83a7F)
-- [EX02-07](https://colab.research.google.com/drive/1aDGuaV9GH274T0Ca_sJSqnqYU9vnIrDN)
+- [EX02-01](EX02_01_My_Chatbot.ipynb)
+- [EX02-02](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
+- [EX02-03](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)
+- [EX02-04](EX02_04_Download_Pokemon_Images.ipynb)
+- [EX02-05](EX02_05_PTT_Gossiping.ipynb)
+- [EX02-06](EX02_06_開眼電影.ipynb)
+- [EX02-07](EX02_07_KKDay.ipynb)
 
 ## 03 Data Analysis
-- [EX03-01](https://github.com/ououou92/ooo/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
-
-
+- [EX03-01](EX03_01_公司薪資概況Ⅰ.ipynb)
+- [EX03-02](EX05_02_Ask_Gemini.ipynb)
+- [EX03-03](EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX03-04]
+- [EX03-05]
+- [EX03-06]
+- [EX03-07]
 ## 04 Machine Learning
 
 ## 05 Web API
