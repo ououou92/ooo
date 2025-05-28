@@ -8,6 +8,7 @@
 - [EX01-05](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 - [EX01-06](EX01_06_簡易購物車.ipynb)
 - [EX01-07](EX01_07_美食資訊查詢.ipynb)
+
 ## 02 Web Crawler
 - [EX02-01](EX02_01_My_Chatbot.ipynb)
 - [EX02-02](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
@@ -19,15 +20,27 @@
 
 ## 03 Data Analysis
 - [EX03-01](EX03_01_公司薪資概況Ⅰ.ipynb)
-- [EX03-02](EX05_02_Ask_Gemini.ipynb)
-- [EX03-03](EX05_03_Reply_Multi_type_Messages.ipynb)
-- [EX03-04]
-- [EX03-05]
-- [EX03-06]
-- [EX03-07]
+- [EX03-02](EX03_02_公司薪資概況Ⅱ.ipynb)
+- [EX03-03](EX03_03_空氣品質指標(AQI).ipynb)
+- [EX03-04](EX03_04_薪情平台.ipynb)
+- [EX03-05](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
+- [EX03-06](EX03_06_出生人口數.ipynb)
+- [EX03-07](EX03_07_Tips1.ipynb)
+
 ## 04 Machine Learning
+- [EX04-01](EX04_01_汽車車型數值資料轉換.ipynb)
+- [EX04-02](EX04_02_客戶基本資料編碼.ipynb)
+- [EX04-03](EX04_03_客戶分群.ipynb)
+- [EX04-04]
+- [EX04-05]
+- [EX04-06]
+- [EX04-07]
 
 ## 05 Web API
+- [EX05-01](EX05_01_Echo_Bot.ipynb)
+- [EX05-02](EX05_02_Ask_Gemini.ipynb)
+- [EX05-03](EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05-04](EX05_04_Reply_Template_Messages.ipynb)
 
 ## Homework
 - [HW01](HW1.ipynb)
